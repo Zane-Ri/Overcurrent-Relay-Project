@@ -52,7 +52,7 @@ h_curve = loglog(I_sec, t_curve, 'b', 'LineWidth', 2);
 hold on; grid on;
 xlabel('Relay Secondary Current (A)');
 ylabel('Trip Time (s)');
-title('Corrected TCC Curve for Overcurrent Relay');
+title('TCC Curve for Overcurrent Relay');
 
 % Get Y limits after initial plot
 yl = ylim;
