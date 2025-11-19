@@ -77,7 +77,7 @@ $$
 
   
 
-When the fault impedance is extremely small, the current becomes huge. This is what the relay detects.
+The load is bypassed, causing the fault impedance to be extremely small. When the fault impedance is extremely small, the current becomes huge. This is what the relay detects.
 
   
 
