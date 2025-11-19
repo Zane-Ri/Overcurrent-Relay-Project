@@ -65,7 +65,7 @@ Under normal conditions, current is limited by the line impedance:
 
   
 
-When a fault occurs, the impedance suddenly becomes very small:
+When a fault occurs:
 
   
 
