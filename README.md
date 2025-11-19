@@ -60,7 +60,7 @@ Under normal conditions, current is limited by the line impedance:
 - Normal condition:
 
     $$
-    I = \frac{V}{Z_{Line}}
+    I = \frac{V}{Z_{Load}}
     $$
 
   
