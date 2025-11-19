@@ -29,7 +29,7 @@ M       = I_sec / Ip_sec;
 t_curve = TMS .* (0.14 ./ (M.^0.02 - 1));
 
 %relay trip times
-% 3phase fault: assume always instantaneous
+% 3phase fault: assume always instantaneous for these specific values
 t_3phi = 0;
 
 % LL and SLG use inverse-time formula when between Ip and Iinst
